@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyTextField (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyTextField (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyTextField: bad86bee4e5dff109f7c1657ba3e62b26c1fa066
+
+PODFILE CHECKSUM: 33ed064e3c542d71a43ec3d7f5ef27c95ad5184f
+
+COCOAPODS: 1.2.1
