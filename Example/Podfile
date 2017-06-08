@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftyTextField_Tests' do
+  pod 'SwiftyTextField', :path => '../'
+  
+  
+end
